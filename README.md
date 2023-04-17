@@ -20,11 +20,11 @@ How does price change as the number of days before the flight date changes?
 Does ticket price change based on the day of the week/week of the month?  
 Model Selection: Price Prediction: This section covers the model selection process and provides details on the models used for price prediction.  
 
-## **Getting Started## **
+## **Getting Started**
 
 To get started with the project, you will need to clone the repository and install the required packages.
 
-## **Prerequisites## **
+## **Prerequisites**
 
 To run this project, you will need to install the following packages:
 
@@ -36,11 +36,11 @@ sklearn
 xgboost
 statsmodel
 
-## **Running the Code## **
+## **Running the Code**
 
 To run the code, you can simply open the Jupyter Notebook and execute the code cells sequentially. The notebook contains detailed comments to guide you through the code.
 
-## **Acknowledgments## **
+## **Acknowledgments**
 
 I would like to thank Kaggle for providing the Flight Prices dataset, which was used for this project.
 
